@@ -12,13 +12,22 @@
 
 ---
 
-## 🚀 Currently Working On
+### 🤖 AI Interview Preparation Platform
 
-- 🤖 AI Interview Preparation Platform (MERN + Gemini AI)
-- 🌐 Full Stack Web Development
-- 📚 Data Structures & Algorithms
-- ☁️ Backend Development with Node.js & Express
+🔗 **Live Demo:**  
+https://interview-ai-frontend-sf02.onrender.com
 
+🔗 **Repository:**  
+https://github.com/PRIYANSHU2569/interview-ai
+
+> React • Node.js • Express • MongoDB • JWT • Gemini AI • Puppeteer
+
+- 🤖 AI-powered interview preparation platform using Gemini AI
+- 📄 Resume analysis and ATS-friendly resume generation
+- 🎯 Generates personalized technical & behavioral interview questions
+- 🔐 Secure JWT-based authentication system
+- 📊 Provides skill gap analysis and preparation roadmap
+- 📑 Generates downloadable resume PDFs using Puppeteer
 ---
 
 ## 🛠 Tech Stack
