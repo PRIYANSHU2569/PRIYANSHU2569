@@ -14,6 +14,33 @@
 
 ## 🚀 Featured Projects
 
+### 🌐 Personal Portfolio — Priyanshu Gupta
+
+🔗 **Live Portfolio:**  
+[https://my-portfolio-sigma-topaz-27.vercel.app/](https://my-portfolio-sigma-topaz-27.vercel.app/)
+
+🔗 **GitHub Repository:**  
+[Add your portfolio repository link here](https://github.com/PRIYANSHU2569/My-Portfolio)
+
+> React • TypeScript • Vite • Tailwind CSS • Framer Motion • EmailJS
+
+A modern, interactive personal portfolio showcasing my technical skills, professional experience, achievements, projects, and coding journey.
+
+**Key Features:**
+
+- 🌌 Interactive WebGL particle background
+- 🎬 Smooth scroll animations and transitions
+- 🎯 Interactive spotlight effects on project cards
+- 📱 Fully responsive design
+- 🧭 Interactive navigation with active section highlighting
+- ✨ Modern dark-themed UI with customized accent colors
+- 📂 Dedicated sections for About, Experience, Skills and Projects
+- 📧 Functional contact form integrated with EmailJS
+- 📄 Resume access and download
+- 🚀 Deployed using Vercel
+
+---
+
 ### 🏢 QuickEMS — Employee Management System
 
 🔗 **Live Demo:**  
@@ -23,7 +50,7 @@ https://fullstack-ems-khaki.vercel.app/dashboard
 https://fullstack-ems-server-green.vercel.app/
 
 🔗 **Repository:**  
-[Add your QuickEMS GitHub repository link here](https://github.com/PRIYANSHU2569/FULLSTACK-EMS)
+[GitHub - FULLSTACK-EMS](https://github.com/PRIYANSHU2569/FULLSTACK-EMS)
 
 > React • Node.js • Express.js • MongoDB • JWT • Nodemailer • Brevo SMTP • Inngest
 
@@ -53,7 +80,7 @@ QuickEMS is a full-stack Employee Management System designed to simplify employe
 https://interview-ai-frontend-sf02.onrender.com
 
 🔗 **Repository:**  
-https://github.com/PRIYANSHU2569/interview-ai
+[GitHub - Interview AI](https://github.com/PRIYANSHU2569/interview-ai)
 
 > React • Node.js • Express • MongoDB • JWT • Gemini AI • Puppeteer
 
@@ -70,6 +97,7 @@ AI-powered interview preparation platform designed to help candidates prepare fo
 - 🖨️ Downloadable resume PDFs using Puppeteer
 
 ---
+
 ## 🛠 Tech Stack
 
 ### Languages
@@ -81,7 +109,7 @@ AI-powered interview preparation platform designed to help candidates prepare fo
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,redux,vite,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,redux,vite,tailwind,ts" />
 </p>
 
 ### Backend
@@ -104,6 +132,7 @@ AI-powered interview preparation platform designed to help candidates prepare fo
 - Inngest
 - JWT
 - Bcrypt
+- EmailJS
 
 ### Core Computer Science
 
@@ -119,7 +148,6 @@ AI-powered interview preparation platform designed to help candidates prepare fo
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
-
 ---
 
 ## 🏆 Achievements
@@ -127,7 +155,7 @@ AI-powered interview preparation platform designed to help candidates prepare fo
 - ✅ Solved **600+ DSA Problems**
 - ⭐ GeeksforGeeks Rating **1768**
 - 🏅 Global Rank **6162** in GFG Contest
-- 💯 200+ Day LeetCode Streak
+- 💯 365 Day LeetCode Streak
 - 💯 100+ Day CodeChef Streak
 
 ---
@@ -187,14 +215,11 @@ https://www.linkedin.com/in/priyanshu-gupta-7474502b7/
 🌐 **GitHub:**  
 https://github.com/PRIYANSHU2569
 
+🌍 **Portfolio:**  
+https://my-portfolio-sigma-topaz-27.vercel.app/
+
 ---
 
 <p align="center">
 
 > *"Code. Learn. Build. Repeat."*
-
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
-</p>
